@@ -47,44 +47,6 @@ function getAssignment(req, res) {
   });
 }
 
-// Récupérer un assignment par son id (GET)
-/*
-function getAssignmentDevoirsRendu(req, res) {
-  console.log("Ato no tonga le search ZAVATRA ONE !! ")
-  let assignmentRendu = req.params.rendu;
-  let toSearch  = true;
-  console.log(assignmentRendu.rendu)
-  console.log("ZAVATRA ONE !!!! ")
-    Assignment.find({ rendu: false }, (err, assignment) => {
-      if (err) {
-        res.send(err);
-      }
-      console.log("From back !!! ")
-      res.json(assignment);
-    });
-
-}
-*/
-
-// Récupérer un assignment par son id (GET)
-/*
-function getAssignmentDevoirsRendu(req, res) {
-  console.log("Ato no tonga le search ZAVATRA ONE !! ")
-  let assignmentRendu = req.params.rendu;
-  let toSearch  = true;
-  console.log(assignmentRendu)
-  console.log("ZAVATRA ONE !!!! ")
-    Assignment.find({ rendu: false }, (err, assignment) => {
-      if (err) {
-        res.send(err);
-      }
-      console.log("From back !!! ")
-      res.json(assignment);
-    });
-
-}
-*/
-
 // Récupérer tous les assignments (GET), AVEC PAGINATION
 function getAssignmentDevoirsRenduTrue(req, res) {
 

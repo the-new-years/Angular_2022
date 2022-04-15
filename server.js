@@ -11,8 +11,6 @@ mongoose.Promise = global.Promise;
 //mongoose.set('debug', true);
 
 // remplacer toute cette chaine par l'URI de connexion à votre propre base dans le cloud s
-//const uri='mongodb+srv://mb:toto@cluster0.xtr0u.mongodb.net/assignments?retryWrites=true&w=majority';
-//const uri='mongodb+srv://masterkoto:moncompte2@cluster0.8mqmg.mongodb.net/assignments?retryWrites=true&w=majority';
 const uri = 'mongodb+srv://domi375:domi375@cluster0.1d4sc.mongodb.net/assign?retryWrites=true&w=majority'
 
 const options = {
