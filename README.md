@@ -40,7 +40,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 	- Frontend: https://github.com/KevElliot/Angular-front
 	
 #Lien Heroku:
-	- Backend: https://mbdsangularback.herokuapp.com/
+	- Backend: https://angular-backend-kanga-ahibo.herokuapp.com/
 	- Frontend: https://mbdsangularfront.herokuapp.com/
 
 #Fonctionnalités:
@@ -71,7 +71,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 		=> pour lancer, executer la commande : ng serve
 
 #Vidéo démo:
-	. https://youtu.be/Zi7SZcEahqA
+	. 
 		
 #Accès:
 	- Etudiant:
