@@ -40,8 +40,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 	- Frontend: 
 	
 #Lien Heroku:
+<<<<<<< HEAD
 	- Backend: 
 	- Frontend: 
+=======
+	- Backend: https://angular-backend-kanga-ahibo.herokuapp.com/
+	- Frontend: https://mbdsangularfront.herokuapp.com/
+>>>>>>> c7e26f5afa387ab53a31c61d28a7cc059413eebc
 
 #Fonctionnalités:
 	- Gestion de login/password avec JWT et gestion de roles
@@ -71,7 +76,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 		=> pour lancer, executer la commande : ng serve
 
 #Vidéo démo:
-	. https://youtu.be/Zi7SZcEahqA
+	. 
 		
 #Accès:
 	- Etudiant:
