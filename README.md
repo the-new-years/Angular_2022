@@ -37,16 +37,13 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 #Lien Github:
 	- Backend: https://github.com/the-new-years/Angular_2022
-	- Frontend: 
+	- Frontend: https://github.com/the-new-years/Angular_2022_front
 	
 #Lien Heroku:
-<<<<<<< HEAD
-	- Backend: 
-	- Frontend: 
-=======
+
 	- Backend: https://angular-backend-kanga-ahibo.herokuapp.com/
-	- Frontend: https://mbdsangularfront.herokuapp.com/
->>>>>>> c7e26f5afa387ab53a31c61d28a7cc059413eebc
+	- Frontend: https://angular-front-kanga-ahibo.herokuapp.com/
+
 
 #Fonctionnalités:
 	- Gestion de login/password avec JWT et gestion de roles
